@@ -2,9 +2,23 @@ body {
     background-color: aqua;
 }
 
-linko {
+#bananabody {
+    background-color: lightyellow;
+}
+
+#bangbody {
+    background-color: lightcoral;
+}
+
+#chickenbody {
+    background-color: lightgreen;
+}
+
+.linko {
     font-weight: bold;
     font-size: 30px;
     text-decoration: none;
+    color: white;
     background-color: blue;
 }
+
