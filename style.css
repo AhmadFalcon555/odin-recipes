@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+
+linko {
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: blue;
+}
