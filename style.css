@@ -14,11 +14,63 @@ body {
     background-color: lightgreen;
 }
 
+#description {
+    background-color: lightgoldenrodyellow;
+}
+
+#list {
+    background-color: orangered;
+    margin: 5px;
+    padding-bottom: 20px;
+}
+
+.div.header {
+    background-color: darkblue;
+    border: 5px solid tomato;
+    padding: 5px;
+}
+
+.images {
+    display: inline-block;
+    margin-right: 20px;
+
+}
+
+.div.opening {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+
 .linko {
     font-weight: bold;
     font-size: 30px;
     text-decoration: none;
     color: white;
     background-color: blue;
+    padding-bottom: 15px;
 }
 
+.title {
+    margin-top: 0;
+}
+
+.image.main {
+    display: block;
+}
+
+#list .h3list {
+    color: lightgrey;
+    font-size: 24px;
+    padding: 10px 0 0 15px;
+}
+
+.list {
+    text-align: center;
+}
+
+.lilist {
+    display: inline-block;
+    list-style: none;
+    padding-right: 100px;
+}
